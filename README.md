@@ -16,7 +16,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanunnijs&theme=vue" />
 </p>
 
-## 🌐 Connect with me ([https://bio.link/krishnanunni]) 
+## 🌐 Connect with me
  All my social links in one place - https://linkfree.eddiehub.io/krishnanunnijs
 
 
