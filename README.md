@@ -16,8 +16,11 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanunnijs&theme=vue" />
 </p>
 
-## 🌐 Socials
+## 🌐 Connect with me ([https://bio.link/krishnanunni]) 
  All my social links in one place - https://linkfree.eddiehub.io/krishnanunnijs
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishnanunnijs)
 
 <!---
 krishnanunnijs/krishnanunnijs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
